@@ -1,5 +1,6 @@
 E-commerce Product Catalog API<br>
 This is a Python and Django-based API for managing an e-commerce product catalog. It provides endpoints for creating, updating, deleting, and searching for products in the catalog.
+It is a simple user friendly API build to fulfill the requirement of the user.
 
 Installation
 1. Clone this repository to your local machine.
